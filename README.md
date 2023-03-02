@@ -11,7 +11,7 @@
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a55359db-8be9-4150-8c22-c4f54b6dfc96/df1d241-485b9236-f0ac-4804-a77d-6495d852801d.png" width="50" height="50">
 
-<img src="https://www.seekpng.com/png/detail/774-7749880_png-file-svg-java-programming-language-logo.png" width="100" height="100">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-black-and-white-2.png" width="80" height="80">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWViubZW1dYhyvUx_Ar9ogNDA_TrcrjZ3doCcJyGZTl63MmKng7UOhA7SZd9-cNPjR5ak&usqp=CAU" width="200" height="140">
 
