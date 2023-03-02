@@ -1,8 +1,8 @@
-###Ananthan Yoganathan
+# Ananthan Yoganathan
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Software engineer | Web developer
+## Software engineer | Web developer
 
-(https://static1.shine.com/l/m/images/blog/full-stack-developer-career.png)
+![profile img](https://static1.shine.com/l/m/images/blog/full-stack-developer-career.png)
 
 
 - 👋 Hi, I’m @yoganathanAnanthan
