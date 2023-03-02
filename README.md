@@ -7,8 +7,18 @@
 
 
 ### Languages
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrvya7nHbXcAK8mlIRboDaUb8uCR8OqBE31Z7JUDQ1svJvT6NsgNIuMB1KVyMEPQSgEY&usqp=CAU" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a55359db-8be9-4150-8c22-c4f54b6dfc96/df1d241-485b9236-f0ac-4804-a77d-6495d852801d.png" width="50" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrvya7nHbXcAK8mlIRboDaUb8uCR8OqBE31Z7JUDQ1svJvT6NsgNIuMB1KVyMEPQSgEY&usqp=CAU" width="50" height="50">
+
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a55359db-8be9-4150-8c22-c4f54b6dfc96/df1d241-485b9236-f0ac-4804-a77d-6495d852801d.png" width="50" height="50">
+
+<img src="https://media.licdn.com/dms/image/D4D12AQFNdOkQCKp6g/articlecover_imageshrink_720_1280/0/1668751493501e=2147483647&v=beta&t=_hKZNFXvZpo7fXKNF3AFKQiki5M0dyxeimbUubAnX3I" width="100" height="50">
+
+<img src="https://w7.pngwing.com/pngs/635/323/png-transparent-javascript-computer-programming-scripting-language-computer-icons-java-script-text-logo-mobile-app-development.png" width="100" height="50">
+
+
+
+
+
 C,C#,
 Java,
 JavaScript
