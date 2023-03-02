@@ -15,7 +15,7 @@
 
 
 ### Full stack
-<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png" width="200" height="120">
+<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png" width="350" height="120">
 
 
 ### Framework
