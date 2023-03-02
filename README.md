@@ -17,13 +17,12 @@
 
 
 ### Full stack
-<img src="https://www.codeimmersives.com/wp-content/uploads/2018/06/MERN-Logo-4-pack.jpg" width="200" height="100">
+<img src="https://www.codeimmersives.com/wp-content/uploads/2018/06/MERN-Logo-4-pack.jpg" width="200" height="120">
 
 
 ### Framework
-<img src="https://ih1.redbubble.net/image.559628267.2242/flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg" width="100" height="100">
 
-<img src="https://d1tcjwyamzpfdx.cloudfront.net/wp-content/uploads/2018/12/12172745/1_dECd0j4aTirHlJhRq-wknQ.jpeg" width="200" height="100">
+<img src="https://d1tcjwyamzpfdx.cloudfront.net/wp-content/uploads/2018/12/12172745/1_dECd0j4aTirHlJhRq-wknQ.jpeg" width="200" height="120">
 
 
 
