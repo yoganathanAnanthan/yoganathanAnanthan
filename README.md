@@ -22,7 +22,7 @@
 
 ### Framework
 
-<img src="https://d1tcjwyamzpfdx.cloudfront.net/wp-content/uploads/2018/12/12172745/1_dECd0j4aTirHlJhRq-wknQ.jpeg" width="200" height="120">
+<img src="https://d1tcjwyamzpfdx.cloudfront.net/wp-content/uploads/2018/12/12172745/1_dECd0j4aTirHlJhRq-wknQ.jpeg" width="200" height="80">
 
 
 
