@@ -13,22 +13,20 @@
 
 <img src="https://media.licdn.com/dms/image/D4D12AQFNdOkQCKp6-g/article-cover_image-shrink_720_1280/0/1668751493501?e=2147483647&v=beta&t=_hKZNFXvZpo7fXKNF3AFKQiki5M0dyxeimbUubAnX3I" width="100" height="50">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWViubZW1dYhyvUx_Ar9ogNDA_TrcrjZ3doCcJyGZTl63MmKng7UOhA7SZd9-cNPjR5ak&usqp=CAU" width="100" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWViubZW1dYhyvUx_Ar9ogNDA_TrcrjZ3doCcJyGZTl63MmKng7UOhA7SZd9-cNPjR5ak&usqp=CAU" width="50" height="50">
 
-
-
-
-
-C,C#,
-Java,
-JavaScript
 
 ### Full stack
-MERN stack
+<img src="https://www.codeimmersives.com/wp-content/uploads/2018/06/MERN-Logo-4-pack.jpg" width="50" height="50">
+
 
 ### Framework
-Angular,
-Flutter
+<img src="https://ih1.redbubble.net/image.559628267.2242/flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg" width="100" height="100">
+
+<img src="https://d1tcjwyamzpfdx.cloudfront.net/wp-content/uploads/2018/12/12172745/1_dECd0j4aTirHlJhRq-wknQ.jpeg" width="50" height="50">
+
+
+
 
 
 ----------------------------------------------reach me suthan.personal01@gmail.com--------------------------------------------------
