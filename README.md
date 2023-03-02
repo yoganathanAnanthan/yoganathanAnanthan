@@ -18,7 +18,7 @@ Angular
 Flutter
 
 
------------------------------------------------------------------reach me suthan.personal01@gmail.com--------------------------------------------------------------------
+-------------------------------------------------------reach me suthan.personal01@gmail.com---------------------------------------------------------------
 
 <!---
 yoganathanAnanthan/yoganathanAnanthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
