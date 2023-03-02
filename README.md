@@ -13,7 +13,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4D12AQFNdOkQCKp6-g/article-cover_image-shrink_720_1280/0/1668751493501?e=2147483647&v=beta&t=_hKZNFXvZpo7fXKNF3AFKQiki5M0dyxeimbUubAnX3I" width="100" height="50">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWViubZW1dYhyvUx_Ar9ogNDA_TrcrjZ3doCcJyGZTl63MmKng7UOhA7SZd9-cNPjR5ak&usqp=CAU" width="200" height="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWViubZW1dYhyvUx_Ar9ogNDA_TrcrjZ3doCcJyGZTl63MmKng7UOhA7SZd9-cNPjR5ak&usqp=CAU" width="200" height="130">
 
 
 ### Full stack
