@@ -7,7 +7,7 @@
 
 
 ### Languages
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrvya7nHbXcAK8mlIRboDaUb8uCR8OqBE31Z7JUDQ1svJvT6NsgNIuMB1KVyMEPQSgEY&usqp=CAU" width="50" height="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrvya7nHbXcAK8mlIRboDaUb8uCR8OqBE31Z7JUDQ1svJvT6NsgNIuMB1KVyMEPQSgEY&usqp=CAU" rc="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a55359db-8be9-4150-8c22-c4f54b6dfc96/df1d241-485b9236-f0ac-4804-a77d-6495d852801d.png" width="50" height="50">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a55359db-8be9-4150-8c22-c4f54b6dfc96/df1d241-485b9236-f0ac-4804-a77d-6495d852801d.png" width="50" height="50">
 C,C#,
 Java,
