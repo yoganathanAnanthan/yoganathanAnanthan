@@ -1,3 +1,10 @@
+###Ananthan Yoganathan
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Software engineer | Web developer
+
+(https://static1.shine.com/l/m/images/blog/full-stack-developer-career.png)
+
+
 - 👋 Hi, I’m @yoganathanAnanthan
 - 👀 I’m interested in leaning new technologies/codeing
 - 🌱 I’m currently learning react
